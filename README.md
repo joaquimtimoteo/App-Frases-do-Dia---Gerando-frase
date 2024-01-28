@@ -1,4 +1,35 @@
-# frases
+Descrição do Aplicativo "Frases do Dia" em Flutter para o GitHub:
+
+Este aplicativo, desenvolvido em Flutter, oferece uma experiência envolvente ao gerar frases inspiradoras e motivacionais diariamente. Com uma interface simples e elegante, o "App Frases do Dia" é projetado para fornecer um impulso positivo aos usuários a cada acesso.
+
+
+# Recursos Principais:
+
+Geração Diária de Frases:
+
+Receba uma nova frase inspiradora a cada dia, proporcionando uma fonte constante de motivação.
+Design Intuitivo:
+
+Uma interface limpa e intuitiva facilita a navegação, permitindo que os usuários foquem no conteúdo inspirador.
+Visual Atraente:
+
+Elementos visuais cuidadosamente selecionados, incluindo uma imagem representativa e uma paleta de cores agradável, proporcionam uma experiência visualmente atraente.
+Interatividade Simples:
+
+Um botão "Nova Frase" permite que os usuários gerem instantaneamente uma nova frase, tornando a interação rápida e fácil.
+Compatibilidade com Múltiplas Plataformas:
+
+Desenvolvido com Flutter, o aplicativo é nativo e pode ser facilmente adaptado para várias plataformas, como iOS e Android.
+Instruções para Contribuição:
+
+Sinta-se à vontade para contribuir para o projeto! Seja através de melhorias no design, adição de recursos ou correção de bugs, todas as contribuições são bem-vindas.
+Como Contribuir:
+
+Faça um Fork do repositório.
+Clone o repositório para a sua máquina local.
+Desenvolva suas melhorias ou correções.
+Envie um Pull Request explicando suas alterações.
+Agradecemos por sua contribuição para tornar o "App Frases do Dia" ainda melhor! 
 
 A new Flutter project.
 
